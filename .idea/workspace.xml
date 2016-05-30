@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08ae418b-92fd-44ef-a30f-1ea0daf90941" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adaptor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/data-fetching.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/getting-started.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/how-to-configure-text-editors.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/react-style-guide.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recipes/how-to-implement-routing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recipes/how-to-integrate-disqus.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recipes/using-npm-and-webpack-as-a-build-tool.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preprocessor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/ApiConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/ApiService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/DoLog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/HttpClient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/HelloWorld/HelloWorld.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/HelloWorld/HelloWorld.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/HelloWorld/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/base.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/variable.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/core/DOMUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/core/Enum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/core/Util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/clean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/deploy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/fetch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/lib/fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/runServer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/webpack.config.js" />
+    </list>
+    <ignored path="react-webpack-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="react-webpack-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="how-to-integrate-disqus.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/recipes/how-to-integrate-disqus.md">
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-webpack-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-webpack-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-webpack-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wen\github\react-webpack-app" />
+    </key>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08ae418b-92fd-44ef-a30f-1ea0daf90941" name="Default" comment="" />
+      <created>1464603118537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1464603118537</updated>
+      <workItem from="1464603119828" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/recipes/how-to-integrate-disqus.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+  </component>
+</project>

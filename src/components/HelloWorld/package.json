@@ -1,0 +1,6 @@
+{
+    "name": "HelloWorld",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./HelloWorld.js"
+}

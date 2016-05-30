@@ -1,0 +1,73 @@
+/**
+ * @Description: css reset
+ */
+
+*{
+    margin: 0;
+    padding: 0;
+    /* 防止点击闪烁 */
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    /* 缩放网页，文字大小不变 */
+    -webkit-text-size-adjust: none;
+    /* 禁止选择 */
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    /*长时间按住页面出现闪退*/
+    -webkit-touch-callout: none; 
+}
+/* 修复img默认位置 */
+img{
+    vertical-align: top;
+}
+/* 去除虚线 */
+input:focus,select:focus,textarea:focus,button:focus{
+    outline: none;
+}
+a{
+    text-decoration: none;
+    /* ios禁止页面在新窗口打开 */
+    -webkit-touch-callout: none;
+}
+/* 允许表单选择 */
+input,textarea{
+    -webkit-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
+input, select, textarea {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-appearance: none;
+    border: 0;
+    border-radius: 0;
+}
+
+i {
+    font-style: normal;
+}
+
+
+html,body {
+    width: 100%;
+    height: 100%;
+    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+
+html,a {
+    -webkit-tap-highlight-color: transparent
+}
+body {
+    background-color: @page_bg;
+    -webkit-text-size-adjust: none;
+    -webkit-overflow-scrolling: touch;
+    /*box-shadow: 0px 1px 0px 0px #C5C3C9;*/
+}
+a{
+    text-decoration: none;
+    color: @blue;
+}
+
+#react_container {
+    background-color: @page_bg;
+}
